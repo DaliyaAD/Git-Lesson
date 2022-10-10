@@ -1,5 +1,7 @@
 # Git Lesson
 
+You can find more notes from the course on my new [web-site]{https://daliyaad.github.io/Git-Lesson/}.
+
 ## TODO List
 
 * Make a List
