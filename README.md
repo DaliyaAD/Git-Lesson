@@ -10,7 +10,7 @@
 
 ## Make a Website
 
-* Create an 'Index.md'
+* Create an `Index.md`
 * Add some content. 
 * Save the file. 
 * Stage the file. 
